@@ -9,6 +9,7 @@ info = [
   {firstname: 'lauren', dinner: 'veggie burrito'},
   {firstname: 'colin', dinner: 'sardines + avocado'},
   {firstname: 'lark', dinner: 'quinoa + greens'}
+  {firstname: 'ripley', dinner: 'kale + figs'}
 ]
 
 var eat = function(info){
